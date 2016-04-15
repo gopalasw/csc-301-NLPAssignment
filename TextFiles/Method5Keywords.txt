@@ -1,0 +1,2 @@
+eliminate 0.9
+elimination 1.0

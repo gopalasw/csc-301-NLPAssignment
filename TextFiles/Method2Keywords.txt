@@ -1,0 +1,2 @@
+complete square 1.0
+square 0.3

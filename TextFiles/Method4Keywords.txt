@@ -1,0 +1,4 @@
+factor quadratics 1.0
+factor quadratic 1.0
+factoring 0.7
+quadratic 0.5
